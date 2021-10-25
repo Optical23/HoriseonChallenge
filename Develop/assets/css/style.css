@@ -17,6 +17,7 @@ body {
     color: #ffffff;
 }
 
+/*Logo side of the Header*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -25,7 +26,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Link side of the Header*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -71,13 +72,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*Container for the Main content articles*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Individual articles css*/
 .mainsection-article {
     margin-bottom: 20px;
     padding: 50px;
@@ -96,7 +97,7 @@ p {
     font-size: 36px;
 }
 
-/*Sidebar benefits section*/
+/*Sidebar benefits Container*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -108,6 +109,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Individual benefit articles CSS*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
